@@ -1,5 +1,5 @@
-# Jogo-Da-Memoria
+# Jogo-Da-Memória
 
 Projeto feito em HTML, CSS, JAVASCRIPT.
 
-Jogo da mémorea baseado nos personagens de League Of Legends.
+Jogo da memória baseado nos personagens de League Of Legends.
